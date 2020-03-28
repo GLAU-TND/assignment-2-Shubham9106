@@ -1,4 +1,4 @@
-package problem2;
+package problem2.main;
 public class TreeNode {
     private int data;
     private TreeNode left;
