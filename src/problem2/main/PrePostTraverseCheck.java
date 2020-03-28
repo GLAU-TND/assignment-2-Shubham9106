@@ -1,4 +1,4 @@
-package problem2;
+package problem2.main;
 
 public class PrePostTraversecheck {
     TreeNode root;
